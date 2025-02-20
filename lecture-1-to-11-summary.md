@@ -14,7 +14,7 @@
   - **Navigating Linux:**  
     The lecture covered the basics of the Linux CLI. The professor explained that every file system is organized as directories (not “folders” as in Windows) starting at the root `/`. Commands such as `pwd` (to show your current directory), `ls` (to list directory contents), `cd` (to change directories), and `cat` (to display file contents) were demonstrated.  
   - **Understanding Paths:**  
-    Special symbols were explained:  
+    Special symbols were explained:   
     - `.` means “current directory”  
     - `..` means “parent directory”  
     - `~` stands for the current user’s home directory  
